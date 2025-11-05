@@ -9,6 +9,6 @@ Provide a mobile solution for learners with no PC or internet access
 Support step-by-step learning for improved conceptual clarity
 
 # Component - Technology
-Platform - Android Studio
-Language - Java
+Platform - Android Studio, 
+Language - Java, 
 Build Tool - Gradle
